@@ -1,0 +1,10 @@
+div.bar-container {
+    border: 1px solid;
+    border-color: #9ea4b1;
+    background-color: white;
+    //width: 250px !important;
+}
+div.bar {
+    background-color: blue;
+    //width: 250px !important;
+}

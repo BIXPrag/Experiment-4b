@@ -1,0 +1,17 @@
+.floating-box {
+			    display: inline-block;
+			    margin: 0px;
+			    padding: 3px;
+			    border: 4px solid black; 
+			}
+.prompt-box {
+		        display: table;
+		        background-color: lightgrey;
+		        width: 50%;
+		        border: 0px;
+		        margin: auto;
+		        align: center;
+		        padding: 5px;
+		        font-size: large;
+		    }
+			

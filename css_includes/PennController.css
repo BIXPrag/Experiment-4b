@@ -1,0 +1,14 @@
+.TextInput { 
+    border solid 1px lightgray;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+    font-size: large;
+    margin: 5px;
+    resize: none;
+}
+.TextInput:focus {
+    border: solid 2px royalblue
+}
